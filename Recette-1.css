@@ -1,0 +1,167 @@
+*{
+    overflow:auto;
+}
+
+body {
+
+    background-color: #8BA1BB;
+    font-family: Arial;
+    margin:0px
+
+}
+
+p.misinforme { 
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+
+    display: inline-block;
+    background-color: black;
+    color:white;
+    margin-bottom: 0px;
+    margin-left: 40px;
+
+    padding:8px 18px
+
+    
+}
+div.contenu {
+
+    background-color: white;
+    margin:-20px 10% 80px 10%;
+    padding:30px;
+    min-width: 50px;
+    box-shadow: 0px 0px 10px 15px rgba(0, 0, 0, 0.4);
+    
+
+    
+}
+h1{
+text-align: center;
+margin-bottom: 15px;
+margin-top: 12px;
+
+}
+p.description{ 
+text-align: center;
+display: inline-block;
+font-size: 16px;
+max-width: 400px;
+
+
+
+}
+div.separateur{
+
+width: 200px;
+height:1px;
+background-color: black;
+margin-left:auto;
+margin-right:auto;
+}
+div.centre,img.centre {
+width: 100%;
+text-align: center;
+font-family: Arial;
+font-size: 16px;
+
+}
+div.centretitre{
+text-align: center;
+
+}
+table.mise{
+
+text-align: center;
+width: 100%;
+position: absolute;
+bottom: 0px;
+color: white;
+background-color: #6C829D80;
+height: 100px;
+
+
+}
+div.misephoto{
+
+position: relative;
+}
+.tableinfo{
+vertical-align: top;
+
+}
+.tableinfo{
+vertical-align: bottom;
+}
+img.centre{
+    max-height: 400px;
+    object-fit: cover;
+    display: block;
+    min-height: 200;
+    background-color:lightpink ;
+}
+div.colomne{
+    width: 45%;
+ margin-top: 20px;
+ 
+
+
+
+    
+}
+div.colomne h2{
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom:5px solid blue;
+    margin-bottom: 4px;
+}
+
+div.colomne1{
+    float:left ;
+
+
+
+    
+    
+}
+div.colomne2{
+    display:inline-block;
+    margin-left: 10%;
+    
+    
+
+}
+div.Ingredient p{
+    margin-top:1px;
+    margin-bottom: 1px;
+    padding: 8px 0px;
+    text-align: center;
+    border:2px solid black 
+    
+
+}
+p.cercle{
+    background-color: cadetblue;
+    font-size: 14px;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border-radius: 50%;
+    padding-top: 4px;
+    font-weight: bold;
+    box-sizing: border-box;
+    color: whitesmoke;
+
+}
+td.ecart{
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
